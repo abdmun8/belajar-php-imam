@@ -1,6 +1,6 @@
 # Repository belajar PHP Imam
 
-### Resource: [DuniaIlkom](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/)
+### Resource belajar PHP: [DuniaIlkom](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/)
 ### Bundle aplikasi yang digunakan adalah [Laragon](https://laragon.org/)
 - Laragon terdiri dari PHP, MySQL, Apache, HeidiSQL, Cmder dan software lainnya.
   - [PHP](https://www.php.net/) digunakan untuk bahasa pemrograman server.
